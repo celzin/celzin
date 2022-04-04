@@ -7,7 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zelzo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
   
-## Linguagens que ja tive contato
+## Linguagens que tive contato
 
 <div style="display: inline_block">
   <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />

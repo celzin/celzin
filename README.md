@@ -1,4 +1,4 @@
-## Olha ele aeh! 👋
+## Olha ele aeh! Prazer, Celso 👋
 
 - 📚 Cursando Engenharia da Computação
 - 💻 Atualmente aprendendo/aprofundando em C/C++

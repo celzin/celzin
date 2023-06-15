@@ -1,6 +1,6 @@
 ## Olha ele aeh! Prazer, Celso 👋
 - 📚 Cursando Engenharia da Computação
-- 💻 Atualmente aprendendo/aprofundando em C/C++
+- 💻 Atualmente aprendendo/aprofundando em C/C++/Html/CSS
 <div align="center">
   <a href="https://github.com/celzin">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=celzin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

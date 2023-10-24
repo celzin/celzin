@@ -1,11 +1,23 @@
-## Olha ele aeh! Prazer, Celso 👋
+<p align="center">
+<img src="imgs/banner-celso.png" width=""/> 
+</p>
 
 <p align="center">
- 
-<img align="center" src="https://github.com/celzin/celzin/imgs/banner-celsin.png" />
+ <!-- <img src="https://badges.pufler.dev/visits/celzin/celzin"/> -->
+ <img src="https://badges.pufler.dev/years/celzin/?style=for-the-badge&color=blue"/>
+ <img src="https://badges.pufler.dev/repos/celzin/?style=for-the-badge&color=blue"/>
+ <img src="https://badges.pufler.dev/commits/monthly/celzin/?style=for-the-badge&color=blue" />
+</p>
 
-</p align="center">
+ <h2 align="center"> Acervo de Tecnologias <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50"></h2>
 
+ <div align="center"style="display: inline_block">
+  <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+</div><br/>
 <h2 align="center">Entre em contate comigo!<img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <p align="center">
@@ -33,15 +45,3 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celzin&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
- <h2 align="center"> <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
- 
- <div align="center"style="display: inline_block">
-  <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-</div><br/>
-
-  
-- "Anything that can go wrong... will go wrong"

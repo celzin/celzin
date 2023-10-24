@@ -11,13 +11,12 @@
 <h2 align="center">Sobre mim</h2>
 <p align="center">
 <img src="imgs/sweaty-speedrunner.gif" width="200"/> 
-
+</p>
 <div align="center" >
 📚 Graduando em Engenharia da Computação (CEFET-MG)
 
 💻 Atualmente me aprofundando em C++/Python/React
 </div>
-</p>
 
  <h2 align="center"> Acervo de Tecnologias <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50"></h2>
 
@@ -31,11 +30,11 @@
 <h2 align="center">Entre em contate comigo<img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <p align="center">
-<a href="mailto: celso.23@aluno.cefetmg.br">
- <img src="https://img.shields.io/badge/-celso.23@aluno.cefetmg.br-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:celso.23@aluno.cefetmg.br"/>
-</a>
 <a href="https://www.linkedin.com/in/celsovinicius23/">
  <img src="https://img.shields.io/badge/-celsovinicius23-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/celsovinicius23"/>
+</a>
+<a href="mailto: celso.23@aluno.cefetmg.br">
+ <img src="https://img.shields.io/badge/-celso.23@aluno.cefetmg.br-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:celso.23@aluno.cefetmg.br"/>
 </a>
  <a href="https://t.me/celso_vsf">
  <img src=" https://img.shields.io/badge/celsovsf-2CA5E0?style=for-the-badge&logo=telegram&logoColor=whitelink=https://t.me/celso_vsf"/>

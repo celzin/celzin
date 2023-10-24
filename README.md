@@ -10,7 +10,7 @@
 </p>
 <h2 align="center">Sobre mim</h2>
 <p align="center">
-<img src="imgs/sweaty-speedrunner.gif" width="200"/> 
+<img src="imgs/sweaty-speedrunner.gif" width="300"/> 
 </p>
 <div align="center" >
 📚 Graduando em Engenharia da Computação (CEFET-MG)
@@ -34,7 +34,7 @@
  <img src="https://img.shields.io/badge/-celsovinicius23-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/celsovinicius23"/>
 </a>
 <a href="mailto: celso.23@aluno.cefetmg.br">
- <img src="https://img.shields.io/badge/-celso.23@aluno.cefetmg.br-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:celso.23@aluno.cefetmg.br"/>
+ <img src="https://img.shields.io/badge/-celso.23-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:celso.23@aluno.cefetmg.br"/>
 </a>
  <a href="https://t.me/celso_vsf">
  <img src=" https://img.shields.io/badge/celsovsf-2CA5E0?style=for-the-badge&logo=telegram&logoColor=whitelink=https://t.me/celso_vsf"/>
@@ -45,8 +45,6 @@
 <h2 align="center">
   Estatísticas do Github<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
-
-
 
 <div align="center">
   <a href="https://github.com/celzin">

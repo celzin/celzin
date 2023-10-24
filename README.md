@@ -8,6 +8,16 @@
  <img src="https://badges.pufler.dev/repos/celzin/?style=for-the-badge&color=blue"/>
  <img src="https://badges.pufler.dev/commits/monthly/celzin/?style=for-the-badge&color=blue" />
 </p>
+<h2 align="center">Sobre mim</h2>
+<p align="center">
+<img src="imgs/sweaty-speedrunner.gif" width="200"/> 
+
+<div align="center" >
+📚 Graduando em Engenharia da Computação (CEFET-MG)
+
+💻 Atualmente me aprofundando em C++/Python/React
+</div>
+</p>
 
  <h2 align="center"> Acervo de Tecnologias <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50"></h2>
 
@@ -18,7 +28,7 @@
   <img align="center" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 </div><br/>
-<h2 align="center">Entre em contate comigo!<img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+<h2 align="center">Entre em contate comigo<img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <p align="center">
 <a href="mailto: celso.23@aluno.cefetmg.br">
@@ -32,16 +42,16 @@
 </a>
 </p>
 
+
 <h2 align="center">
   Estatísticas do Github<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
 
-- 📚 Cursando Engenharia da Computação
-- 💻 Atualmente aprendendo/aprofundando em C/C++/Html/CSS
+
 
 <div align="center">
   <a href="https://github.com/celzin">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=celzin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celzin&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=celzin&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celzin&layout=compact&langs_count=7&theme=prussian"/>
 </div>
 

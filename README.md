@@ -11,11 +11,9 @@
 
 <h2 align="center">Sobre mim</h2>
 <div align="center">
-  <img src="imgs/sweaty-speedrunner.gif" width="300"/> 
-
   📚 Graduando em Engenharia da Computação (CEFET-MG)
 
-  💻 Atualmente me aprofundando em **C++/Python/React**
+  💻 Atualmente me aprofundando em C++/Python/React
 </div>
 
 <h2 align="center"> Acervo de Tecnologias</h2>

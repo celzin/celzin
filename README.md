@@ -1,23 +1,29 @@
-<h1 align="left">👋 Hello there!</h1>
+<!-- <h1 align="left">👋 Hello there!</h1> -->
+
+<p align="center">
+  <img src="src\imgs\hello.gif" style="max-width: 150px; border-radius: 15px;">
+</p>
+
+---
 
 <p align="center">
   <a href="https://www.linkedin.com/in/celsovinicius23/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/celsovinicius23"/>
-  </a>
+    <img height="30" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/celsovinicius23"/>
+  </a>&ensp;
   <a href="mailto: celso.23@aluno.cefetmg.br">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:celso.23@aluno.cefetmg.br"/>
-  </a>
+    <img height="30" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:celso.23@aluno.cefetmg.br"/>
+  </a>&ensp;
   <a href="https://t.me/celso_vsf">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/celso_vsf"/>
+    <img height="30" alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/celso_vsf"/>
   </a>
 </p>
 
 <br>
 
-<img src="src\imgs\hello.gif" style="max-width: 250px; border-radius: 15px;" align="right">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celzin&layout=compact&langs_count=6&theme=tokyonight"/>
 
 <div align="left">
-  📌 Me chamo Celso, sou estudante e tenho 23 anos.
+  👋  Hello there! Me chamo Celso, sou estudante de TI e tenho 23 anos.
   <br><br>
 
   📚 Atualmente graduando em Engenharia de Computação no [@CEFET-MG](https://www.divinopolis.cefetmg.br/).
@@ -25,9 +31,8 @@
   💻 Me aprofundando em `Python` & `React`.
 
   ❤️ Apaixonado nas áreas de `Desenvolvimento`, `Análise de Dados` e `Inteligência Artifical`.
-</div>
+</div><br>
 
-<br>
 
 <div align="center"style="display: inline_block">
   <img align="center" height="30" alt="Git" src="src\icons\Git.svg" />

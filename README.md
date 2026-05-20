@@ -23,7 +23,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celzin&layout=compact&langs_count=6&theme=tokyonight"/>
 
 <div align="left">
-  👋  Hello there! Me chamo Celso, sou estudante de TI e tenho 23 anos.
+  👋  Hello there! Me chamo Celso, muito prazer.
   <br><br>
 
   📚 Atualmente graduando em Engenharia de Computação no [@CEFET-MG](https://www.divinopolis.cefetmg.br/).
